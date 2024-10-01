@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @stephen-cox-resideo
+- 👀 I’m interested in embedded development, linux and machine learning
+- 🌱 I’m currently learning finer detail in the Yocto build system and multi-task neural networks
+- 💞️ I’m looking to collaborate on anything Oclea SDK related
+- 📫 How to reach me on email
+- ⚡ Fun fact: If I'm not behind a screen or with my family, you will find me hiking around NZ
